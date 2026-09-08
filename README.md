@@ -1,26 +1,107 @@
-### Hi, I'm Renukumar 👋
+# Hi 👋, I'm Renu Kumar
 
-MBA candidate (Business Analytics & Marketing) turning raw data into business decisions.
+### 📊 Data Analyst | Python | SQL | Power BI | Data Visualization
 
-- 🎓 MBA – Business Analytics & Marketing, Saveetha Engineering College (Anna University), Chennai
-- 🔍 Focus areas: Customer Analytics, RFM Segmentation, Sales & Marketing Insights
-- 🛠️ Tools: Python · SQL · Power BI · Advanced Excel (DAX, Power Query)
-- 💼 Background in sales operations and business reporting before moving into analytics
-- 🎯 Looking for: Business Analyst / Marketing Analytics roles
-- 📫 Reach me: krenukumar1245@gmail.com | [LinkedIn](https://linkedin.com/in/renukumar04)
+I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
----
-
-#### 📊 Featured Project
-**[Customer Behavior Analysis](https://github.com/renukumar43/customer_behavior_analysis)**
-End-to-end analytics workflow — Python (EDA & cleaning) → SQL (business questions) → Power BI (dashboard) — on customer purchase data.
+* 🔭 Currently working on **Data Analytics projects**
+* 🌱 Learning and improving my skills in **Python, SQL, Power BI & Excel**
+* 📊 Interested in **Data Analysis, Business Intelligence & Data Visualization**
+* 💡 Passionate about finding patterns and insights from data
+* 🎯 Goal: To build a career as a **Data Analyst**
+* 📫 Email: [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+## 🛠️ Skills
+
+### Programming & Data Analysis
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+### Database
+
+* SQL
+* MySQL
+* PostgreSQL
+
+### Data Visualization
+
+* Power BI
+* Excel
+* Data Visualization
+* Dashboard Development
+
+### Other Skills
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Statistical Analysis
+* Business Analysis
+* Machine Learning Basics
+
+---
+
+## 📌 Featured Projects
+
+### 📊 E-Commerce Data Analytics
+
+* Performed data cleaning and exploratory data analysis using Python
+* Used SQL to analyze customer and sales data
+* Created interactive Power BI dashboards
+* Generated business insights and recommendations
+
+### 📈 Customer Analytics
+
+* Analyzed customer behavior and purchasing patterns
+* Calculated customer retention and key business metrics
+* Used Python, SQL and Power BI for analysis and visualization
+
+### 🤖 Machine Learning Projects
+
+* Built beginner-level machine learning models using Python
+* Worked with datasets using Pandas and Scikit-learn
+* Evaluated model performance using appropriate metrics
+
+---
+
+## 📊 My Analytics Toolkit
+
+```text
+Python       █████████░ 90%
+SQL          █████████░ 90%
+Power BI     ████████░░ 80%
+Excel        ████████░░ 80%
+Pandas       █████████░ 90%
+Data Viz     ████████░░ 80%
+```
+
+---
+
+## 🚀 Currently Learning
+
+* Advanced SQL
+* Power BI & DAX
+* Advanced Excel
+* Data Storytelling
+* Machine Learning
+* Business Intelligence
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
+
+💻 **GitHub:** https://github.com/renukumar43
+
+---
+
+⭐ *“Turning data into insights, and insights into decisions.”*
 
 <!--
 **renukumar43/renukumar43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

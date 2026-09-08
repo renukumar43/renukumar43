@@ -1,107 +1,75 @@
-# Hi 👋, I'm Renu Kumar
+### Hi 👋, I'm Renu Kumar
 
-### 📊 Data Analyst | Python | SQL | Power BI | Data Visualization
+📊 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-I’m an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions.
+I'm passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
-* 🔭 Currently working on **Data Analytics projects**
-* 🌱 Learning and improving my skills in **Python, SQL, Power BI & Excel**
-* 📊 Interested in **Data Analysis, Business Intelligence & Data Visualization**
-* 💡 Passionate about finding patterns and insights from data
-* 🎯 Goal: To build a career as a **Data Analyst**
-* 📫 Email: [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
----
-
-## 🛠️ Skills
-
-### Programming & Data Analysis
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-
-### Database
-
-* SQL
-* MySQL
-* PostgreSQL
-
-### Data Visualization
-
-* Power BI
-* Excel
-* Data Visualization
-* Dashboard Development
-
-### Other Skills
-
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Statistical Analysis
-* Business Analysis
-* Machine Learning Basics
+- 🔭 Currently working on data analytics projects
+- 🌱 Learning and improving my skills in Python, SQL, Power BI & Excel
+- 📊 Interested in Data Analysis, Business Intelligence & Data Visualization
+- 💡 Passionate about finding patterns and insights from data
+- 🎯 Goal: To build a career as a Data Analyst
+- 📫 Email: [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/renukumar04](https://linkedin.com/in/renukumar04)
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Skills
 
-### 📊 E-Commerce Data Analytics
+**Programming & Data Analysis**
+Python · Pandas · NumPy · Matplotlib
 
-* Performed data cleaning and exploratory data analysis using Python
-* Used SQL to analyze customer and sales data
-* Created interactive Power BI dashboards
-* Generated business insights and recommendations
+**Database**
+SQL · MySQL · PostgreSQL
 
-### 📈 Customer Analytics
+**Data Visualization**
+Power BI · Excel · Dashboard Development
 
-* Analyzed customer behavior and purchasing patterns
-* Calculated customer retention and key business metrics
-* Used Python, SQL and Power BI for analysis and visualization
-
-### 🤖 Machine Learning Projects
-
-* Built beginner-level machine learning models using Python
-* Worked with datasets using Pandas and Scikit-learn
-* Evaluated model performance using appropriate metrics
+**Other Skills**
+Exploratory Data Analysis (EDA) · Data Cleaning · Statistical Analysis · Business Analysis
 
 ---
 
-## 📊 My Analytics Toolkit
+### 📌 Featured Project
 
-```text
+**[📊 Customer Behavior Analysis](https://github.com/renukumar43/customer_behavior_analysis)**
+End-to-end analytics project on customer purchasing behavior:
+- Performed data cleaning and exploratory data analysis using Python
+- Used SQL (CTEs, window functions, aggregates) to answer 10+ business questions
+- Built an interactive Power BI dashboard with DAX measures and KPI cards
+
+---
+
+### 📊 My Analytics Toolkit
+
 Python       █████████░ 90%
 SQL          █████████░ 90%
 Power BI     ████████░░ 80%
 Excel        ████████░░ 80%
 Pandas       █████████░ 90%
 Data Viz     ████████░░ 80%
-```
 
 ---
 
-## 🚀 Currently Learning
+### 🚀 Currently Learning
 
-* Advanced SQL
-* Power BI & DAX
-* Advanced Excel
-* Data Storytelling
-* Machine Learning
-* Business Intelligence
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
-
-💻 **GitHub:** https://github.com/renukumar43
+- Advanced SQL
+- Power BI & DAX
+- Advanced Excel
+- Data Storytelling
+- Business Intelligence
 
 ---
 
-⭐ *“Turning data into insights, and insights into decisions.”*
+### 🤝 Connect With Me
+
+📧 Email: [krenukumar1245@gmail.com](mailto:krenukumar1245@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/renukumar04](https://linkedin.com/in/renukumar04)
+💻 GitHub: [github.com/renukumar43](https://github.com/renukumar43)
+
+⭐ *"Turning data into insights, and insights into decisions."*
 
 <!--
 **renukumar43/renukumar43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
